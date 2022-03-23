@@ -1,3 +1,3 @@
-# Point AndClickTutorial
+# 2D Point and Click Tutorial for Unreal
 
-Developed with Unreal Engine 4
+This is the project for the 2D Point and Click Adventure Game in Unreal tutorial series.
